@@ -20,12 +20,18 @@
     </script>
   </head>
   <style>
-    body {
-      background-image: url("background.jpeg");
-      background-size: 100%;
+    .tooltip {
+      visibility: hidden;
+      position: absolute;
+    }
+    .has-tooltip:hover .tooltip {
+      visibility: visible;
+      z-index: 100;
     }
   </style>
-  <body class="flex flex-col items-between h-screen dark:bg-gray-950">
+  <body
+    class="flex flex-col items-between h-screen bg-[url(background.jpeg)] bg-cover"
+  >
     <div class="w-full h-[100px] text-white">adds</div>
     <nav class="bg-gray-800">
       <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -105,8 +111,26 @@
             </div>
           </div>
           <div
-            class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0"
-          ></div>
+            class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0 has-tooltip"
+          >
+            <a
+              class="relative rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 focus:outline-hidden"
+              href="https://discord.gg/EvJhCTgpnD"
+              target="_blank"
+            >
+              <span class="absolute -inset-1.5"></span>
+              <span class="sr-only">Join Discord</span>
+
+              <img
+                class="h-8 w-auto"
+                src="discord-icon-svgrepo-com.svg"
+                alt="Join Discord"
+              />
+            </a>
+            <span class="tooltip w-max rounded shadow-lg p-1 text-white -ml-31"
+              >Join my Discord</span
+            >
+          </div>
         </div>
       </div>
       <el-disclosure id="mobile-menu" hidden class="block sm:hidden">
@@ -139,9 +163,9 @@
       ></iframe>
     </div>
 
-    <footer class="bg-white rounded-lg shadow-sm m-4 dark:bg-gray-800">
+    <footer class="bg-white rounded-lg shadow-sm dark:bg-gray-800">
       <div
-        class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between"
+        class="w-full mx-auto max-w-screen-xl p-2 md:flex md:items-center md:justify-between font-sm"
       >
         <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400"
           >Definitiv Guide is not affiliated with or endorsed by Grinding Gear
@@ -160,10 +184,18 @@
           </li>
           <li>
             <a
-              href="https://discord.gg/EvJhCTgpnD"
+              href="https://www.youtube.com/@CyclonDefinitiv"
               target="_blank"
               class="hover:underline me-4 md:me-6"
-              >Discord</a
+              >Youtube</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.twitch.tv/cyclondefinitiv"
+              target="_blank"
+              class="hover:underline me-4 md:me-6"
+              >Twitch</a
             >
           </li>
           <li>
@@ -172,5 +204,94 @@
         </ul>
       </div>
     </footer>
+    <div
+      id="cookieConsentBanner"
+      class="fixed bottom-0 left-0 w-full bg-gray-800 text-white p-4 text-center z-50"
+    >
+      <div
+        class="max-w-4xl mx-auto flex flex-col items-center md:flex-row justify-between"
+      >
+        <p class="mb-3 md:mb-0 text-sm md:text-base">
+          This website uses cookies 🍪 to improve your experience, analyze
+          traffic, and display personalized ads. You can accept all cookies or
+          reject non-essentials.
+        </p>
+        <div class="flex space-x-4">
+          <button
+            id="acceptCookies"
+            class="cookie-button bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-md text-sm"
+          >
+            Accept All
+          </button>
+          <button
+            id="rejectCookies"
+            class="cookie-button bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded-md text-sm"
+          >
+            Reject Non-Essential
+          </button>
+        </div>
+      </div>
+    </div>
   </body>
+
+  <script>
+    // Check if the user has already given consent
+    function checkCookieConsent() {
+      const consentGiven = localStorage.getItem("cookieConsent");
+      if (consentGiven) {
+        document.getElementById("cookieConsentBanner").style.display = "none"; // Hide the banner
+        if (consentGiven === "accepted") {
+          loadGoogleAnalytics(); // Load Google Analytics if consent is accepted
+        }
+      } else {
+        document.getElementById("cookieConsentBanner").style.display = "block"; // Show the banner
+      }
+    }
+
+    // Function to load Google Analytics script
+    function loadGoogleAnalytics() {
+      const script = document.createElement("script");
+      script.src = "https://www.googletagmanager.com/gtag/js?id=G-HWEWZ1PLYL";
+      script.async = true;
+      script.onload = function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-HWEWZ1PLYL");
+      };
+      document.head.appendChild(script);
+    }
+
+    // Function to set cookie consent in localStorage
+    function setCookieConsent(consent) {
+      localStorage.setItem("cookieConsent", consent); // Store consent choice
+      document.getElementById("cookieConsentBanner").style.display = "none"; // Hide the banner
+      // Trigger actions based on the user's choice
+      if (consent === "accepted") {
+        console.log("User accepted all cookies");
+        loadGoogleAnalytics(); // Initialize Google Analytics
+      } else if (consent === "rejected") {
+        console.log("User rejected non-essential cookies");
+        // Optionally, you can disable or block non-essential scripts
+      }
+    }
+
+    // Event listeners for the buttons
+    document
+      .getElementById("acceptCookies")
+      .addEventListener("click", function () {
+        setCookieConsent("accepted"); // User accepted cookies
+      });
+
+    document
+      .getElementById("rejectCookies")
+      .addEventListener("click", function () {
+        setCookieConsent("rejected"); // User rejected non-essential cookies
+      });
+
+    // Check cookie consent on page load
+    window.onload = checkCookieConsent;
+  </script>
 </html>

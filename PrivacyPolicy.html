@@ -20,12 +20,18 @@
     </script>
   </head>
   <style>
-    body {
-      background-image: url("background.jpeg");
-      background-size: 100%;
+    .tooltip {
+      visibility: hidden;
+      position: absolute;
+    }
+    .has-tooltip:hover .tooltip {
+      visibility: visible;
+      z-index: 100;
     }
   </style>
-  <body class="flex flex-col items-between h-screen dark:bg-gray-950">
+  <body
+    class="flex flex-col items-between h-screen bg-[url(background.jpeg)] bg-cover"
+  >
     <div class="w-full h-[100px] text-white">adds</div>
     <nav class="bg-gray-800">
       <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -104,8 +110,26 @@
             </div>
           </div>
           <div
-            class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0"
-          ></div>
+            class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0 has-tooltip"
+          >
+            <a
+              class="relative rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 focus:outline-hidden"
+              href="https://discord.gg/EvJhCTgpnD"
+              target="_blank"
+            >
+              <span class="absolute -inset-1.5"></span>
+              <span class="sr-only">Join Discord</span>
+
+              <img
+                class="h-8 w-auto"
+                src="discord-icon-svgrepo-com.svg"
+                alt="Join Discord"
+              />
+            </a>
+            <span class="tooltip w-max rounded shadow-lg p-1 text-white -ml-31"
+              >Join my Discord</span
+            >
+          </div>
         </div>
       </div>
       <el-disclosure id="mobile-menu" hidden class="block sm:hidden">
@@ -136,89 +160,259 @@
       <div
         class="bg-white overflow-auto rounded-lg shadow-sm m-4 dark:bg-gray-800"
       >
-        <div
-          class="w-full h-full mx-auto max-w-screen-xl p-4 flex flex-col md:items-center md:justify-between"
-        >
-          <h1>
-            Privacy Policy<br />
-            Effective Date: July 30, 2026<br />
-            <br />
-            This Privacy Policy describes how Definitiv Guide collects, uses,
-            and shares information collected from users ('you' or 'your') of our
-            website located at definitivguide.com.<br />
-            <br />
-            1. Information We Collect:<br />
-            <br /><br />
-            <!-- We collect information you provide directly to us, such as when
-            you:<br />
-            <br />
-            Create an account<br />
-            Contact us<br />
-            Make a purchase<br />
-            <br />
-            This information may include your name, email address, postal
-            address, payment information, and any other information you choose
-            to provide.<br />
-            <br /> -->
-            We collect information automatically, such as:<br />
-            <br />
-            Your IP address<br />
-            Your browser type<br />
-            Pages you visit on our Website<br />
-            Your interaction with our Website<br />
-            This information is collected through cookies and similar
-            technologies.<br />
-            <br />
-            2. How We Use Your Information:<br />
-            <br />
-            We use your information to:<br />
-            Provide and improve our services<br />
-            Personalize your experience<br />
-            Comply with legal obligations<br />
-            3. How We Share Your Information:<br />
-            <br />
-            We may share your information with:<br />
-            <br />
-            Service providers who assist us in operating our Website<br />
-            Law enforcement or other government agencies if required by law<br />
-            We might sell your data to advertisers.<br />
-            Advertising revenue enables us to provide our products and services.
-            Advertisers may learn information from your engagement with their
-            ads on or off this Website. For example, if you click on an external
-            link or ad on our services, that advertiser or website operator
-            might figure out that you came from this Site, along with other
-            information associated with the ad you clicked, such as
-            characteristics of the audience it was intended to reach and other
-            identifiers for that ad. They may also collect other personal
-            information from you, such as cookie identifiers, or your IP
-            address.
+        <div class="container mx-auto p-6 shadow-md rounded-lg">
+          <h1 class="text-2xl font-bold mb-4">Privacy Policy</h1>
 
-            <br /><br />
-            4. Your Rights:<br />
-            <br />
-            You have the right to:<br />
-            <br />
-            Access your information<br />
-            Correct your information<br />
-            Delete your information<br />
-            Object to the processing of your information<br />
-            5. Data Security:<br />
-            <br />
-            We take reasonable measures to protect your information from
-            unauthorized access, use, or disclosure.<br />
-            <br />
-            6. Changes to This Privacy Policy:<br />
-            <br />
-            We may update this Privacy Policy from time to time. We will post
-            any changes on this page.
-          </h1>
+          <!-- Section 1: Introduction -->
+          <div class="section">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section1')"
+            >
+              1. Controller
+            </h2>
+            <div id="section1" class="section-content hidden ml-6">
+              <p><strong>definitivguide.com</strong></p>
+              <p>Email: cyclon@definitivguide.com</p>
+            </div>
+          </div>
+
+          <!-- Section 2: General Information -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section2')"
+            >
+              2. General Information on Data Processing
+            </h2>
+            <div id="section2" class="section-content hidden ml-6">
+              <p>
+                We take the protection of your personal data seriously. Personal
+                data is only processed to the extent necessary to provide a
+                functional website and our content and services.
+              </p>
+              <p>
+                The legal basis for processing is generally
+                <strong>Art. 6(1)(f) GDPR</strong> (legitimate interests) or –
+                where consent is required –
+                <strong>Art. 6(1)(a) GDPR</strong> (consent).
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 3: Collection of Data -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section3')"
+            >
+              3. Collection and Storage of Personal Data and Purpose of Use
+            </h2>
+            <div id="section3" class="section-content hidden ml-6">
+              <h3 class="font-semibold">a) When Visiting the Website</h3>
+              <p>
+                When you access our website, information is automatically sent
+                to our server by your browser and temporarily stored in log
+                files. This includes:
+              </p>
+              <ul class="list-disc pl-6">
+                <li>IP address of the requesting device</li>
+                <li>Date and time of access</li>
+                <li>Name and URL of the accessed file</li>
+                <li>Referring website (referrer URL)</li>
+                <li>
+                  Browser used and, if applicable, your device’s operating
+                  system
+                </li>
+              </ul>
+              <p>
+                This data is processed to ensure the proper functioning of the
+                website and system stability.
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 4: Use of Google Services -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section4')"
+            >
+              4. Use of Google Services
+            </h2>
+            <div id="section4" class="section-content hidden ml-6">
+              <h3 class="font-semibold">a) Google Analytics</h3>
+              <p>
+                We use <strong>Google Analytics</strong>, a web analytics
+                service provided by Google Ireland Limited. Google Analytics
+                uses “cookies” (text files) which are stored on your device and
+                allow analysis of your use of the website.
+              </p>
+              <p>
+                Google may transfer the collected information to servers in the
+                USA. We use <strong>IP anonymization</strong>, which means your
+                IP address will be truncated within the EU before being sent to
+                Google.
+              </p>
+              <p>
+                <strong>Legal basis:</strong> Your consent under
+                <strong>Art. 6(1)(a) GDPR</strong>.
+              </p>
+              <p>
+                You can withdraw your consent at any time via the cookie banner.
+              </p>
+              <p>
+                More info:
+                <a
+                  href="https://support.google.com/analytics/answer/6004245"
+                  target="_blank"
+                  class="text-blue-500"
+                  >https://support.google.com/analytics/answer/6004245</a
+                >
+              </p>
+
+              <h3 class="font-semibold mt-4">b) Google AdSense</h3>
+              <p>
+                We use <strong>Google AdSense</strong>, a service by Google
+                Ireland Limited, to display ads. Google AdSense uses cookies to
+                enable interest-based advertising and may also use web beacons
+                to gather statistical data.
+              </p>
+              <p>
+                <strong>Legal basis:</strong> Consent under
+                <strong>Art. 6(1)(a) GDPR</strong>.
+              </p>
+              <p>
+                More info:
+                <a
+                  href="https://policies.google.com/technologies/ads?hl=en"
+                  target="_blank"
+                  class="text-blue-500"
+                  >https://policies.google.com/technologies/ads?hl=en</a
+                >
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 5: Cookies -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section5')"
+            >
+              5. Cookies
+            </h2>
+            <div id="section5" class="section-content hidden ml-6">
+              <p>
+                We use cookies to make our website more user-friendly. Some
+                cookies are essential; others help us improve your experience.
+              </p>
+              <p>
+                You are given the option to consent to non-essential cookies
+                when you first visit the site via our cookie banner. You can
+                update your preferences at any time.
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 6: Your Rights -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section6')"
+            >
+              6. Your Rights
+            </h2>
+            <div id="section6" class="section-content hidden ml-6">
+              <p>
+                Under the General Data Protection Regulation (GDPR), you have
+                the following rights:
+              </p>
+              <ul class="list-disc pl-6">
+                <li>Access to your stored personal data (Art. 15 GDPR)</li>
+                <li>Rectification of inaccurate data (Art. 16 GDPR)</li>
+                <li>Erasure of your data (Art. 17 GDPR)</li>
+                <li>Restriction of processing (Art. 18 GDPR)</li>
+                <li>Data portability (Art. 20 GDPR)</li>
+                <li>Object to data processing (Art. 21 GDPR)</li>
+                <li>
+                  Withdraw consent at any time with effect for the future (Art.
+                  7(3) GDPR)
+                </li>
+              </ul>
+              <p>
+                To exercise these rights, please contact:
+                <strong>Email: support@definitivguide.com</strong>
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 7: Hosting and Design Frameworks -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section7')"
+            >
+              7. Hosting and Design Frameworks
+            </h2>
+            <div id="section7" class="section-content hidden ml-6">
+              <p>
+                This website uses <strong>Tailwind CSS</strong> and
+                <strong>Tailwind Elements</strong> for layout and styling. These
+                tools do not collect or process personal data directly.
+              </p>
+            </div>
+          </div>
+
+          <!-- Section 8: Changes to Privacy Policy -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section8')"
+            >
+              8. Changes to this Privacy Policy
+            </h2>
+            <div id="section8" class="section-content hidden ml-6">
+              <p>
+                We reserve the right to update this privacy policy to comply
+                with legal requirements or to reflect changes to our services or
+                data processing.
+              </p>
+              <p>Last updated: July 31, 2025</p>
+            </div>
+          </div>
+
+          <!-- Section 9: Contact -->
+          <div class="section mt-4">
+            <h2
+              class="text-xl font-semibold cursor-pointer"
+              onclick="toggleSection('section9')"
+            >
+              9. Contact
+            </h2>
+            <div id="section9" class="section-content hidden ml-6">
+              <p>
+                If you have any questions about the processing of your personal
+                data, please contact:
+              </p>
+              <p>Email: support@definitivguide.com</p>
+            </div>
+          </div>
+          <div class="section mt-4">
+            <button
+              id="deleteCookies"
+              class="cookie-button bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded-md text-sm cursor-pointer"
+            >
+              Delete Cookies
+            </button>
+          </div>
         </div>
       </div>
     </div>
 
-    <footer class="bg-white rounded-lg shadow-sm m-4 dark:bg-gray-800">
+    <footer class="bg-white rounded-lg shadow-sm dark:bg-gray-800">
       <div
-        class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between"
+        class="w-full mx-auto max-w-screen-xl p-2 md:flex md:items-center md:justify-between font-sm"
       >
         <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400"
           >Definitiv Guide is not affiliated with or endorsed by Grinding Gear
@@ -237,10 +431,18 @@
           </li>
           <li>
             <a
-              href="https://discord.gg/EvJhCTgpnD"
+              href="https://www.youtube.com/@CyclonDefinitiv"
               target="_blank"
               class="hover:underline me-4 md:me-6"
-              >Discord</a
+              >Youtube</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.twitch.tv/cyclondefinitiv"
+              target="_blank"
+              class="hover:underline me-4 md:me-6"
+              >Twitch</a
             >
           </li>
           <li>
@@ -249,5 +451,115 @@
         </ul>
       </div>
     </footer>
+    <div
+      id="cookieConsentBanner"
+      class="fixed bottom-0 left-0 w-full bg-gray-800 text-white p-4 text-center z-50"
+    >
+      <div
+        class="max-w-4xl mx-auto flex flex-col items-center md:flex-row justify-between"
+      >
+        <p class="mb-3 md:mb-0 text-sm md:text-base">
+          This website uses cookies 🍪 to improve your experience, analyze
+          traffic, and display personalized ads. You can accept all cookies or
+          reject non-essentials.
+        </p>
+        <div class="flex space-x-4">
+          <button
+            id="acceptCookies"
+            class="cookie-button bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-md text-sm"
+          >
+            Accept All
+          </button>
+          <button
+            id="rejectCookies"
+            class="cookie-button bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded-md text-sm"
+          >
+            Reject Non-Essential
+          </button>
+        </div>
+      </div>
+    </div>
   </body>
+
+  <script>
+    // Check if the user has already given consent
+    function checkCookieConsent() {
+      const consentGiven = localStorage.getItem("cookieConsent");
+      if (consentGiven) {
+        document.getElementById("cookieConsentBanner").style.display = "none"; // Hide the banner
+        if (consentGiven === "accepted") {
+          loadGoogleAnalytics(); // Load Google Analytics if consent is accepted
+        }
+      } else {
+        document.getElementById("cookieConsentBanner").style.display = "block"; // Show the banner
+      }
+    }
+
+    // Function to load Google Analytics script
+    function loadGoogleAnalytics() {
+      const script = document.createElement("script");
+      script.src = "https://www.googletagmanager.com/gtag/js?id=G-HWEWZ1PLYL";
+      script.async = true;
+      script.onload = function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-HWEWZ1PLYL");
+      };
+      document.head.appendChild(script);
+    }
+
+    // Function to set cookie consent in localStorage
+    function setCookieConsent(consent) {
+      localStorage.setItem("cookieConsent", consent); // Store consent choice
+      document.getElementById("cookieConsentBanner").style.display = "none"; // Hide the banner
+      // Trigger actions based on the user's choice
+      if (consent === "accepted") {
+        console.log("User accepted all cookies");
+        loadGoogleAnalytics(); // Initialize Google Analytics
+      } else if (consent === "rejected") {
+        console.log("User rejected non-essential cookies");
+        // Optionally, you can disable or block non-essential scripts
+      }
+    }
+
+    // Event listeners for the buttons
+    document
+      .getElementById("acceptCookies")
+      .addEventListener("click", function () {
+        setCookieConsent("accepted"); // User accepted cookies
+      });
+
+    document
+      .getElementById("rejectCookies")
+      .addEventListener("click", function () {
+        setCookieConsent("rejected"); // User rejected non-essential cookies
+      });
+
+    document
+      .getElementById("deleteCookies")
+      .addEventListener("click", function () {
+        localStorage.removeItem("cookieConsent"); // Delete consent choice
+        let allCookies = document.cookie.split(";");
+
+        // The "expire" attribute of every cookie is
+        // Set to "Thu, 01 Jan 1970 00:00:00 GMT"
+        for (let i = 0; i < allCookies.length; i++)
+          document.cookie =
+            allCookies[i] + "=;expires=" + new Date(0).toUTCString();
+        window.location.reload();
+      });
+
+    // Check cookie consent on page load
+    window.onload = checkCookieConsent;
+  </script>
+  <script>
+    // Toggle function to show/hide sections
+    function toggleSection(sectionId) {
+      const sectionContent = document.getElementById(sectionId);
+      sectionContent.classList.toggle("hidden");
+    }
+  </script>
 </html>
