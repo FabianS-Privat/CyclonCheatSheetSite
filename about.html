@@ -5,19 +5,22 @@
       src="https://cdn.jsdelivr.net/npm/@tailwindplus/elements@1"
       type="module"
     ></script>
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-HWEWZ1PLYL"
-    ></script>
+    <!-- Google Tag Manager -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
-      gtag("js", new Date());
-
-      gtag("config", "G-HWEWZ1PLYL");
+      gtag("consent", "default", {
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+      });
+      dataLayer.push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
     </script>
+    <!-- End Google Tag Manager -->
   </head>
   <style>
     .tooltip {
@@ -32,6 +35,16 @@
   <body
     class="flex flex-col items-between h-screen bg-[url(background.jpeg)] bg-cover"
   >
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MLKTNZ74"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div class="w-full h-[100px] text-white">adds</div>
     <nav class="bg-gray-800">
       <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -270,6 +283,14 @@
         gtag("config", "G-HWEWZ1PLYL");
       };
       document.head.appendChild(script);
+      var gtmScript = document.createElement("script2");
+      gtmScript.async = true;
+      gtmScript.src = "https://www.googletagmanager.com/gtm.js?id=GTM-MLKTNZ74";
+      var firstScript = document.getElementsByTagName("script2")[0];
+      gtmScript.onload = function () {
+        firstScript.parentNode.insertBefore(gtmScript, firstScript);
+      };
+      document.head.appendChild(gtmScript);
     }
 
     // Function to set cookie consent in localStorage
@@ -279,6 +300,15 @@
       // Trigger actions based on the user's choice
       if (consent === "accepted") {
         console.log("User accepted all cookies");
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("consent", "update", {
+          ad_user_data: "granted",
+          ad_personalization: "granted",
+          ad_storage: "granted",
+          analytics_storage: "granted",
+        });
         loadGoogleAnalytics(); // Initialize Google Analytics
       } else if (consent === "rejected") {
         console.log("User rejected non-essential cookies");
