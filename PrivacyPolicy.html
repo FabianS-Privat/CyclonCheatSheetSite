@@ -520,12 +520,16 @@
         gtag("config", "G-HWEWZ1PLYL");
       };
       document.head.appendChild(script);
-      var gtmScript = document.createElement("script2");
-      gtmScript.async = true;
+      const gtmScript = document.createElement("script2");
       gtmScript.src = "https://www.googletagmanager.com/gtm.js?id=GTM-MLKTNZ74";
-      var firstScript = document.getElementsByTagName("script2")[0];
+      gtmScript.async = true;
       gtmScript.onload = function () {
-        firstScript.parentNode.insertBefore(gtmScript, firstScript);
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "GTM-MLKTNZ74");
       };
       document.head.appendChild(gtmScript);
     }
