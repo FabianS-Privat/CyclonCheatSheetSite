@@ -262,6 +262,13 @@
       if (consentGiven) {
         document.getElementById("cookieConsentBanner").style.display = "none"; // Hide the banner
         if (consentGiven === "accepted") {
+           function gtag() { dataLayer.push(arguments); }
+            gtag('consent', 'update', {
+              ad_user_data: 'granted',
+              ad_personalization: 'granted',
+              ad_storage: 'granted',
+              analytics_storage: 'granted'
+            });
           loadGoogleAnalytics(); // Load Google Analytics if consent is accepted
         } 
       } else {
