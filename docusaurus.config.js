@@ -81,7 +81,7 @@ const config = {
         title: "Definitiv Guide",
         logo: {
           alt: "Cyclon Logo",
-          src: "img/Logo.png",
+          src: "/img/Logo.png",
         },
         items: [
           { to: "/builds", label: "Builds", position: "left" },
@@ -93,7 +93,7 @@ const config = {
             label: "Layouts",
           },
           {
-            html: `<img class="h-8 w-auto" src="img/discord-icon.svg" alt="Join Discord"/>`,
+            html: `<img class="h-8 w-auto" src="/img/discord-icon.svg" alt="Join Discord"/>`,
             to: "https://discord.gg/EvJhCTgpnD",
             position: "right",
           },
