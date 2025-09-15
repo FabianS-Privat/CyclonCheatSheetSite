@@ -264,6 +264,11 @@ const PrivacyPolicy = () => {
               >
                 Delete Cookies
               </button>
+              <div class="footer-item">
+                <a href="#cookie-settings" data-cc="c-settings">
+                  <span class="footer-item-text">Cookie settings</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
