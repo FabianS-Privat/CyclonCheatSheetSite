@@ -15,7 +15,7 @@ export default function HomepageFeatures() {
                   href="https://www.patreon.com/bePatron?u=182207519"
                   target="_blank"
                 >
-                  <img src="/img/Banner.png" alt="Patreon" />
+                  <img src="/img/banner.png" alt="Patreon" />
                 </a>
               </div>
 
