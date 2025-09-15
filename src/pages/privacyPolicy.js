@@ -13,13 +13,14 @@ const PrivacyPolicy = () => {
 
   const deleteCookies = () => {
     // Clear cookies
-    document.cookie.split(";").forEach((c) => {
-      document.cookie = c
-        .replace(/^ +/, "")
-        .replace(/=.*/, "=;expires=" + new Date().toUTCString() + ";path=/");
-    });
-    alert("Cookies deleted.");
-    window.location.reload();
+    document.cookie.split(";");
+
+    for (let i = 0; i < cookies.length; i++) {
+      const cookie = cookies[i];
+      const eqPos = cookie.indexOf("=");
+      const name = eqPos > -1 ? cookie.substring(0, eqPos) : cookie;
+      window.location.reload();
+    }
   };
 
   return (
@@ -264,11 +265,6 @@ const PrivacyPolicy = () => {
               >
                 Delete Cookies
               </button>
-              <div class="footer-item">
-                <a href="#cookie-settings" data-cc="c-settings">
-                  <span class="footer-item-text">Cookie settings</span>
-                </a>
-              </div>
             </div>
           </div>
         </div>
