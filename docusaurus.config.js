@@ -4,18 +4,17 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from "prism-react-renderer";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+export default {
   title: "Definitiv Guide",
   tagline: "All of Cyclon's Content in one place!",
   favicon: "img/Logo.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: false, // Improve compatibility with the upcoming Docusaurus v4
   },
 
   plugins: ["docusaurus-plugin-image-zoom", "./src/plugins/tailwind-config.js"],
@@ -52,14 +51,13 @@ const config = {
 
   presets: [
     [
-      "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      "@docusaurus/preset-classic",
+      {
         docs: {
           sidebarPath: "./sidebars.js",
         },
         theme: {
-          customCss: "./src/css/custom.css",
+          customCss: require.resolve("./src/css/custom.css"),
         },
         gtag: {
           trackingID: "G-HWEWZ1PLYL",
@@ -68,113 +66,101 @@ const config = {
         googleTagManager: {
           containerId: "GTM-MLKTNZ74",
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
-      navbar: {
-        title: "Definitiv Guide",
-        logo: {
-          alt: "Cyclon Logo",
-          src: "/img/Logo.png",
+  themeConfig: {
+    image: "img/Logo.png",
+    navbar: {
+      title: "Definitiv Guide",
+      logo: {
+        alt: "Cyclon Logo",
+        src: "/img/Logo.png",
+      },
+      items: [
+        { to: "/builds", label: "Builds", position: "left" },
+        { to: "/strats", label: "Strategies", position: "left" },
+        {
+          type: "docSidebar",
+          sidebarId: "sidebar",
+          position: "left",
+          label: "Layouts",
         },
-        items: [
-          { to: "/builds", label: "Builds", position: "left" },
-          { to: "/strats", label: "Strategies", position: "left" },
-          {
-            type: "docSidebar",
-            sidebarId: "sidebar",
-            position: "left",
-            label: "Layouts",
-          },
-          {
-            html: `<img class="h-8 w-auto" src="/img/discord-icon.svg" alt="Join Discord"/>`,
-            to: "https://discord.gg/EvJhCTgpnD",
-            position: "right",
-          },
-        ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Pages",
-            items: [
-              {
-                label: "Builds",
-                to: "/builds",
-              },
-              {
-                label: "Strats",
-                to: "/strats",
-              },
-              {
-                label: "Layouts",
-                to: "/docs/layout",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "YouTube",
-                to: "https://www.youtube.com/@CyclonDefinitiv",
-              },
-              {
-                label: "Twitch",
-                to: "https://www.twitch.tv/cyclondefinitiv",
-              },
-              {
-                label: "Discord",
-                to: "https://discord.gg/EvJhCTgpnD",
-              },
-              {
-                label: "X",
-                to: "https://x.com/Definitiv1C",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "About",
-                to: "/about",
-              },
-              {
-                label: "Privacy Policy",
-                to: "/privacyPolicy",
-              },
-              {
-                label: "Contact",
-                to: "/contact",
-              },
-            ],
-          },
-        ],
-        copyright: `Definitiv Guide is not affiliated with or endorsed by Grinding Gear Games or Eleventh Hour Games. Copyright © ${new Date().getFullYear()} CyclonDefinitiv Built with Docusaurus.`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-      zoom: {
-        selector: ".markdown :not(em) > img",
-        background: {
-          light: "rgb(50, 50, 50)",
-          dark: "rgb(50, 50, 50)",
+        {
+          html: `<img class="h-8 w-auto" src="/img/discord-icon.svg" alt="Join Discord"/>`,
+          to: "https://discord.gg/EvJhCTgpnD",
+          position: "right",
         },
-        config: {
-          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      ],
+    },
+    footer: {
+      style: "dark",
+      links: [
+        {
+          title: "Pages",
+          items: [
+            {
+              label: "Builds",
+              to: "/builds",
+            },
+            {
+              label: "Strats",
+              to: "/strats",
+            },
+            {
+              label: "Layouts",
+              to: "/docs/layout",
+            },
+          ],
         },
+        {
+          title: "Community",
+          items: [
+            {
+              label: "YouTube",
+              to: "https://www.youtube.com/@CyclonDefinitiv",
+            },
+            {
+              label: "Twitch",
+              to: "https://www.twitch.tv/cyclondefinitiv",
+            },
+            {
+              label: "Discord",
+              to: "https://discord.gg/EvJhCTgpnD",
+            },
+            {
+              label: "X",
+              to: "https://x.com/Definitiv1C",
+            },
+          ],
+        },
+        {
+          title: "More",
+          items: [
+            {
+              label: "About",
+              to: "/about",
+            },
+            {
+              label: "Privacy Policy",
+              to: "/privacyPolicy",
+            },
+            {
+              label: "Contact",
+              to: "/contact",
+            },
+          ],
+        },
+      ],
+      copyright: `Definitiv Guide is not affiliated with or endorsed by Grinding Gear Games or Eleventh Hour Games. Copyright © ${new Date().getFullYear()} CyclonDefinitiv Built with Docusaurus.`,
+    },
+    zoom: {
+      selector: ".markdown :not(em) > img",
+      background: {
+        light: "rgb(50, 50, 50)",
+        dark: "rgb(50, 50, 50)",
       },
-    }),
+    },
+  },
 };
-
-export default config;
