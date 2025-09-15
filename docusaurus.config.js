@@ -98,23 +98,6 @@ export default {
       style: "dark",
       links: [
         {
-          title: "Pages",
-          items: [
-            {
-              label: "Builds",
-              to: "/builds",
-            },
-            {
-              label: "Strats",
-              to: "/strats",
-            },
-            {
-              label: "Layouts",
-              to: "/docs/layout",
-            },
-          ],
-        },
-        {
           title: "Community",
           items: [
             {

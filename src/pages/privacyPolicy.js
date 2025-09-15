@@ -258,12 +258,11 @@ const PrivacyPolicy = () => {
             ))}
 
             <div className="section mt-4">
-              <button
-                onClick={deleteCookies}
-                className="cookie-button bg-gray-500 hover:bg-gray-600 px-4 py-2 rounded-md text-sm cursor-pointer"
-              >
-                Delete Cookies
-              </button>
+              <div class="footer-item">
+                <a href="#cookie-settings" data-cc="c-settings">
+                  <span class="footer-item-text">Cookie settings</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
