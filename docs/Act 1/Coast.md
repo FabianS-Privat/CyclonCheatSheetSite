@@ -6,12 +6,12 @@ sidebar_position: 3
 
 ## Layouts
 
-|                                                                 |                                                                 |
-| --------------------------------------------------------------- | --------------------------------------------------------------- |
-| Simple North-East ![Coast Variant 1](<./img/The Coast (1).png>) | Simple East ![Coast Variant 2](<./img/The Coast (3).png>)       |
-| Handgun go South ![Coast Variant 3](<./img/The Coast (2).png>)  | Handgun Go Past ![Coast Variant 4](<./img/The Coast (5).png>)   |
-| South Variant ![Coast Variant 5](<./img/The Coast (6).png>)     | Walk North Variant![Coast Variant 6](<./img/The Coast (4).png>) |
-| Stick to Wall ![Coast Variant 7](<./img/The Coast (7).png>)     | Long Coast ![Coast Variant 8](<./img/The Coast (8).png>)        |
+|                                                                       |                                                                       |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Simple North-East ![Coast Variant 1](<./img/Coast/The Coast (1).png>) | Simple East ![Coast Variant 2](<./img/Coast/The Coast (3).png>)       |
+| Handgun go South ![Coast Variant 3](<./img/Coast/The Coast (2).png>)  | Handgun Go Past ![Coast Variant 4](<./img/Coast/The Coast (5).png>)   |
+| South Variant ![Coast Variant 5](<./img/Coast/The Coast (6).png>)     | Walk North Variant![Coast Variant 6](<./img/Coast/The Coast (4).png>) |
+| Stick to Wall ![Coast Variant 7](<./img/Coast/The Coast (7).png>)     | Long Coast ![Coast Variant 8](<./img/Coast/The Coast (8).png>)        |
 
 ### Points of Interest
 

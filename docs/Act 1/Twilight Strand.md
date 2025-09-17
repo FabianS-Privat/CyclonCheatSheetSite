@@ -6,9 +6,9 @@ sidebar_position: 2
 
 ## Layouts
 
-|                                                                   |                                                                |
-| ----------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Twilight Strand Variant 1](<./img/Twilight%20Strand%20(1).png>) | ![Twilight Strand Variant 2](<./img/Twilight%20Strand(2).png>) |
+|                                                                                   |                                                                                |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ![Twilight Strand Variant 1](<./img/Twilight Strand/Twilight%20Strand%20(1).png>) | ![Twilight Strand Variant 2](<./img/Twilight Strand/Twilight%20Strand(2).png>) |
 
 ### Points of Interest
 
