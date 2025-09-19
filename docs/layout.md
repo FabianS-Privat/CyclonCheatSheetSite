@@ -16,3 +16,24 @@ If you have any questions or anything is unclear, reach out to me on
 ## How to orient the zone
 
 ![The Crossroads >](./Act%202/img/TheCrossroadsDirections.png)
+
+## How to help
+
+If you want to help filling out this Document please contact me via Discord.
+
+### Missing Layout
+
+Please take a Screenshot of the fully discovered Minimap and send it to me via Discord
+
+Example:
+![The Crossroads >](./Act%202/img/TheCrossroads.png)
+Act 2 - Crossroads
+
+### Better Explanation
+
+If you found a better Explanation how to identify and read a Zone, got any Comments or Notes for outliers / simple Reads please send me it me via Discord.
+
+Example:  
+Act 2 - Crossroads  
+`Better Explanation: [Explanation]` or  
+`Simple Read: [Explanation]`

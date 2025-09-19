@@ -49,7 +49,7 @@ Placeholder Video, actual Video coming once created and edited.
 | 6th Town Visit      | Lvl 12 Skill, take Portal                | Nessa: Lvl 12 Skill Gem                                                                |
 | Ship Graveyard      | Enter Ship Graveyard Cave                |                                                                                        |
 | Ship Graveyard Cave | Get Allflame                             |                                                                                        |
-| Ship Graveyard      | Kill Fairgraives                         |                                                                                        |
+| Ship Graveyard      | Kill Fairgraves                          |                                                                                        |
 | 7th Town Visit      | Passive Point                            | Bestel: Passive Point, get rest of your Act 1 Gems now or when revisiting during Act 2 |
 | Cavern of Wrath     | Get to Cavern of Anger                   |                                                                                        |
 | Cavern of Anger     | Kill Merveil                             | Aim to be Level 11.5 - 12 when killing Merveil                                         |
