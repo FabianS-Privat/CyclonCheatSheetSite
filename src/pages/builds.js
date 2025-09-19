@@ -5,8 +5,13 @@ export default function About() {
   return (
     <Layout>
       <div class="h-full w-full">
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4659198126450802"
+          crossorigin="anonymous"
+        ></script>
         <ins
-          class="adsbygoogle"
+          class="adsbygoogle block"
           data-ad-client="ca-pub-4659198126450802"
           data-ad-slot="2573850842"
           data-ad-format="auto"
