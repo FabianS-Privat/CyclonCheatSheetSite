@@ -11,7 +11,7 @@ export default function About() {
           crossorigin="anonymous"
         ></script>
         <ins
-          class="adsbygoogle block"
+          class="adsbygoogle inline-block w-[728px] h-[90px] md:w-[468px] md:h-[60px] sm:w-[320px] sm:h-[100px]"
           data-ad-client="ca-pub-4659198126450802"
           data-ad-slot="2573850842"
           data-ad-format="auto"
