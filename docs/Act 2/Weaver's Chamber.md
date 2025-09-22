@@ -8,8 +8,8 @@ sidebar_position: 9
 
 |                                                                                                                                                        |                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Short Passage West, Weaver East ![Weaver's chamber Variant 1](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(1).png>)                                | Spawn at South Edge, Weaver North-East ![Weaver's chamber Variant 2](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(2).png>)           |
-| Long Passage West into Long Passage South, Weaver South Corner ![Weaver's chamber Variant 3](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(3).png>) | Zone opens North at Left Edge, Weaver North-West ![Weaver's chamber Variant 5](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(5).png>) |
+| Short Passage West, Weaver East ![Weaver's chamber Variant 1](<./img/Weaver's%20Chambers/Weaver's%20Chamber%20(1).png>)                                | Spawn at South Edge, Weaver North-East ![Weaver's chamber Variant 2](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(2).png>)           |
+| Long Passage West into Long Passage South, Weaver South Corner ![Weaver's chamber Variant 3](<./img/Weaver's%20Chambers/Weaver's%20Chamber%20(3).png>) | Zone opens North at Left Edge, Weaver North-West ![Weaver's chamber Variant 5](<./img/Weaver's%20Chambers/Weaver's%20chamber%20(5).png>) |
 
 ## Zone Read
 
