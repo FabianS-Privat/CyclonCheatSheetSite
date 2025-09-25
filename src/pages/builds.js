@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Layout>
       <div class="h-full w-full">
-        <div id="ad-container block" class="my-4 flex justify-center">
+        <div id="ad-container" class="my-4 flex justify-center">
           <script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4659198126450802"
