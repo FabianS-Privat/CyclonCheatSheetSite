@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Layout>
       <div class="h-full w-full">
-        <div id="ad-container" class="my-4 flex justify-center">
+        {/* <div id="ad-container" class="my-4 flex justify-center">
           <script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4659198126450802"
@@ -19,7 +19,7 @@ export default function About() {
             data-full-width-responsive="true"
           ></ins>
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
+        </div> */}
         <iframe
           class="h-full w-full"
           src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQPMvpMS578vwOTipJMuEWxhsZD1_idyFTf9t1rtXh5bqa8aCwgCkheS87BCeSMByvxbWcSU4Hzf1A4/pubhtml?widget=true&amp;headers=false"
