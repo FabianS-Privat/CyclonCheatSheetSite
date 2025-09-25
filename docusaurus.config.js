@@ -41,13 +41,7 @@ export default {
     locales: ["en"],
   },
 
-  scripts: [
-    {
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4659198126450802",
-      async: true,
-      crossorigin: "anonymous",
-    },
-  ],
+  scripts: [],
 
   presets: [
     [
