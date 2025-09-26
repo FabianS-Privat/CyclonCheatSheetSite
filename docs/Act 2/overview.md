@@ -62,7 +62,9 @@ Do the Zone of whom you help last and kill all other first, if you kill all, don
 | 5th Town Visit    | Collect Apex from Eramir, if killed all Bandits              |                                                                                   |
 | Act 1 Town Visit  | Passive Point, take WP to Crossroads, enter Fellshrine Ruins | Bestel: Passive Point, get rest of Act 1 Gems from Nessa                          |
 | Felshrine Ruins   | Get to Crypt                                                 |                                                                                   |
-| Crypt             | Complete the Trial                                           | Portal to Town here!, Log would send you to Act 1 Town                            |
+| Crypt             | Complete the Trial                                           |                                                                                   |
+| Crypt             | Get to Crypt 2                                               |                                                                                   |
+| Crypt             | Collect Golden Hand                                          | Portal to Town here!, Log would send you to Act 1 Town                            |
 | 6th Town Visit    | Take WP to Wetlands                                          |                                                                                   |
 | Wetlands          | Enter Vaal Ruins                                             |                                                                                   |
 | Vaal Ruins        | Release Darkness, get to Northern Forest                     |                                                                                   |
