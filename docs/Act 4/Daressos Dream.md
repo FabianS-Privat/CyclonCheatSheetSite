@@ -26,3 +26,10 @@ The first Exception is the U Pattern Variant. If the First and Second Room both 
 In any other Variant the Exit is in the North Corner of the Zone at the East Edge. We move North till we hit the First Room, from there we move East till we hit the East Edge or a 2 Path Room, on the 2 Path Room always go South, then resume moving East.
 
 The Last Exception is the Maze into Maze Variant, where we have to walk into a Dead End before realizing we reached the East Edge, move back out of it then turn North.
+
+### Cage Skips
+
+| Left Side Skip                                                         | Right Side Skip                                                        | Direct Zoom In Skip                                                    |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![Cage Skip Variant 5](<./img/Daressos%20Dream/Cage%20Skip%20(5).png>) | ![Cage Skip Variant 3](<./img/Daressos%20Dream/Cage%20Skip%20(3).png>) | ![Cage Skip Variant 2](<./img/Daressos%20Dream/Cage%20Skip%20(2).png>) |
+| ![Cage Skip Variant 1](<./img/Daressos%20Dream/Cage%20Skip%20(1).png>) | ![Cage Skip Variant 4](<./img/Daressos%20Dream/Cage%20Skip%20(4).png>) |                                                                        |
