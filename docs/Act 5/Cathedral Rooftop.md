@@ -13,6 +13,7 @@ sidebar_position: 11
 ### Point of Interest
 
 Cradle of Purity, interact with to start Kitava Fight
+Lilly, to travel to Part 2 Act 6 Town
 
 ## Zone Read
 
