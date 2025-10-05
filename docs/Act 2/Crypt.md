@@ -6,10 +6,10 @@ sidebar_position: 13
 
 ## Layouts
 
-|                                                   |                                                   |
-| ------------------------------------------------- | ------------------------------------------------- |
-| ![Crypt Variant 1](<./img/Crypt/Crypt%20(1).png>) | ![Crypt Variant 2](<./img/Crypt/Crypt%20(2).png>) |
-| ![Crypt Variant 3](<./img/Crypt/Crypt%20(3).png>) | ![Crypt Variant 4](<./img/Crypt/Crypt%20(4).png>) |
+|                                                                                  |                                                                                 |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| North Variant, follow Opposite ![Crypt Variant 4](<./img/Crypt/Crypt%20(4).png>) | East Variant, Follow Opposite ![Crypt Variant 1](<./img/Crypt/Crypt%20(1).png>) |
+| West Variant, follow Opposite ![Crypt Variant 2](<./img/Crypt/Crypt%20(2).png>)  | South Variant, follow Same ![Crypt Variant 3](<./img/Crypt/Crypt%20(3).png>)    |
 
 ### Points of Interest
 
