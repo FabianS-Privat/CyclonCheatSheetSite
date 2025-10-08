@@ -26,7 +26,7 @@ Piety and the Trial of Ascendancy can be seen in the Fog, while still undiscover
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ![Piety Undiscovered](./img/Crematorium/Piety%20Undiscovered.png) | ![Trial Undiscovered](./img/Crematorium/Trial%20Undiscovered.png) |
 
-To differentiate between the Diffrent Main Layout Variants, we always check West first. If West is a Deadend, we are in the East Variant. If we instead can move South directly, we are in the South Variant.
+To differentiate between the Diffrent Main Layout Variants, we always check West first. If West is a Dead End, we are in the East Variant. If we instead can move South directly, we are in the South Variant.
 
 If we find the Trial West but Below the Entrance on the Minimap, Piety will be East. IF the Room leading to the Trial was a Linear one, Piety is South East.
 If the Path to the Trial was through several small Rooms, Piety will be in the North-East Corner.

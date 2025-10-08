@@ -13,14 +13,13 @@ sidebar_position: 14
 ## Zone Read
 
 :::tip Simple Read
-
 Follow the Water
-
 :::
 
-For Cavern of Wrath you have to determine if the Water flows North or West.
-If the Water flows East, the Exit is in the North-East Corner.
-If it flows North the Exit is in the Nort-West Corner.
+Cavern of Wrath has 2 Variants, to determine which one you are in see in which direction the Water flows. Either by following the River or literaly by watching the Water
 
-Do determine the Waterflow you can literaly watch the Water flowing, but you can also look in which direction the River continues.
-The River goes through the entire Zone leading to the Entrance to Cavern of Anger. The West and East Side of the Zone are connected via Wooden or Stone Bridges crossing over the River.
+Follow the River in the direction the Water flows / the Zone extends to.
+
+:::info Cyclon's Note
+This is a great Zone to have some Practice in, as once you run it a couple of Time conciously you get a Feel for the Direction it should be going.
+:::

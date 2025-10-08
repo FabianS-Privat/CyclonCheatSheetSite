@@ -19,4 +19,4 @@ Based on the First 1-2 Turns we have to take to avoid Dead Ends and take Curves,
 
 A special rule specific to the South Variant is that the Allflame Room can never be entered from the North. In the South Variant the entrance will always be from the West.
 
-So with those Rules and Patterns in mind. Take the Direcction the Zone forces you, look for Edges to orient the Layout and avoid Deadends by keeping the Diagonal Line from Entrance to Exit in mind.
+So with those Rules and Patterns in mind. Take the Direcction the Zone forces you, look for Edges to orient the Layout and avoid Dead Ends by keeping the Diagonal Line from Entrance to Exit in mind.

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Layouts
 
-| T-Section West Deadend                                                                | T-Section East Deadend                                                                         |
+| T-Section West Dead End                                                               | T-Section East Dead End                                                                        |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | ![Canals Variant 1 Skipless](<./img/Canals/Canals%20(3).png>)                         | ![Canals Variant 2 Skipless](<./img/Canals/Canals%20(2).png>)                                  |
 | 2nd T-Section West for Skip ![Canals Variant 1 Skip](<./img/Canals/Canals%20(1).png>) | Skip North on the first open Section ![Canals Variant 2 Skip](<./img/Canals/Canals%20(4).png>) |

@@ -8,9 +8,9 @@ sidebar_position: 8
 
 |                                                                                                               |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Left Facing Entrance, Zone only opens South-West at the End ![Climb Variant 1](<./img/Climb/Climb%20(1).png>) | Left Facing Entrance, Zone only opens North-East at the End![Climb Variant 2](<./img/Climb/Climb%20(4).png>) |
-| ![Climb Variant 3](<./img/Climb/Climb%20(2).png>)                                                             | ![Climb Variant 4](<./img/Climb/Climb%20(3).png>)                                                            |
-| ![Climb Variant 5](<./img/Climb/Climb%20(5).png>)                                                             |                                                                                                              |
+| East Facing Entrance, Zone only opens South-West at the End ![Climb Variant 1](<./img/Climb/Climb%20(1).png>) | East Facing Entrance, Zone only opens North-East at the End![Climb Variant 2](<./img/Climb/Climb%20(4).png>) |
+| Hook Ledge, Exit along the West Edge ![Climb Variant 3](<./img/Climb/Climb%20(2).png>)                        | Hook Ledge, Exit along the West Edge ![Climb Variant 4](<./img/Climb/Climb%20(3).png>)                       |
+| Zone Extends east ![Climb Variant 5](<./img/Climb/Climb%20(5).png>)                                           |                                                                                                              |
 
 ### Point of Interest
 
@@ -22,7 +22,7 @@ Legion Monolith
 
 :::tip Simple Read
 
-Follow the Left Wall from the Entrance. Detailed Example seen in the Image above.
+Follow the West Edge from the Entrance. Detailed Example seen in the Image above.
 
 :::
 

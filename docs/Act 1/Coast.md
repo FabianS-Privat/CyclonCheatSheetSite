@@ -21,15 +21,13 @@ Waypoint
 
 The **Golden Rule of Coast** is that Waypoints and Exits have to be on Water Level.
 
-Generally Walk East / North-East to identify the direction the Layout is going. Follow along the Coast and try to get a Layer down for each Layer that you go upwards.
+Generally Walk East / North-East to identify the direction the Layout is extending. Follow along the Coast and try to get a Layer down for each Layer that you go upwards.
 A Layer up is indicated by a Ledge / Slope.
 
-There is one variant that goes southwards. You will notice you are in the south variant if you enter the zone facing west and notice no Major identifier or Slope when walking east.
+There is one variant that goes southwards. The South Variant places you facing South at the North Edge, all other Layouts that place you facing South open up North.
 
 :::danger Long Coast
-
 When identifying the Layout as **the Long Coast**, consider logging to Town and making a new Instance, it is faster than running the Zone.
-
 :::
 
 ### Major Zone Identifier
@@ -43,9 +41,7 @@ For the _Water Corner_ Layout check the Water Corner that you will walk into if 
 
 If you get a Water Corner (like in Image 8), it is **the Long Coast** Layout.
 
-:::tip Cyclon's Note
-
+:::info Cyclon's Note
 Ignore all Enemies here,
 Click on Corpses that you are pathing along for additional Loot
-
 :::

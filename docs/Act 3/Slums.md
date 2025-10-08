@@ -18,7 +18,7 @@ sidebar_position: 3
 
 :::tip Simple Read
 
-Go into the Direction that is not the Deadend at the Start
+Go into the Direction that is not the Dead End at the Start
 
 :::
 
@@ -28,9 +28,9 @@ For Wst Facing Entrance, the exit will be either in the North-East or North-West
 
 To differentiate between the Sub Variants, we go with a Checklist.
 
-Always check East at the Start, if it has the Long Deadend either directly or when checking further East. The Exit will be in the North-West corner, but to get there we need to head South-West first till we can move North-West. Like in West Facing Entrance Image 1.
+Always check East at the Start, if it has the Long Dead End either directly or when checking further East. The Exit will be in the North-West corner, but to get there we need to head South-West first till we can move North-West. Like in West Facing Entrance Image 1.
 
-If there is no Long Deadend East, but the Eastern Edge of the Zone, then the Exit is North-West, but we can go there directly. Like in West Facing Entrance Image 2.
+If there is no Long Dead End East, but the Eastern Edge of the Zone, then the Exit is North-West, but we can go there directly. Like in West Facing Entrance Image 2.
 
 Finaly if the Zone extends East instead and we can continue east. The Exit is North-East. Move East till you hit the East Corner, then move North.
 

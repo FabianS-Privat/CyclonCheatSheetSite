@@ -13,7 +13,7 @@ sidebar_position: 2
 ### Points of Interest
 
 Waypoint  
-Deadends to West/East have Blue Packs at the End
+Dead Ends to West/East have Blue Packs at the End
 
 ## Zone Read
 

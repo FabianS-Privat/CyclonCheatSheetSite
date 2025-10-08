@@ -8,7 +8,7 @@ sidebar_position: 7
 
 |                                                                                                                                                    |                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| South Deadend, Trial and Exit West ![Chamber of Sins Variant 1](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(1).png>)                 | South Curves Exit North-East ![Chamber of Sins Variant 3](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(4).png>)                                       |
+| South Dead End, Trial and Exit West ![Chamber of Sins Variant 1](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(1).png>)                | South Curves Exit North-East ![Chamber of Sins Variant 3](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(4).png>)                                       |
 | Trial Visible on 3rd Room, Exit South Long Walkway ![Chamber of Sins Variant 2](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(3).png>) | Exit not visible on 3rd Room, Trial West and Exit East Long Walkway![Chamber of Sins Variant 4](<./img/Chamber%20of%20Sins%202/Chamber%20of%20Sins%202%20(2).png>) |
 
 ### Points of Interest

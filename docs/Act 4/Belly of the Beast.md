@@ -17,7 +17,7 @@ sidebar_position: 11
 1. Move West if you can
 2. Otherwise Move North if you can
 3. If neither is possible Move East
-4. If hitting a Deadend turn around and repeat at top
+4. If hitting a Dead End turn around and repeat at top
    :::
 
 The above simple Rule applies to all Layouts with one Exception, sometimes at the Start you have to move South first, then a long East Passage, before the above Simple Rule applies again.
