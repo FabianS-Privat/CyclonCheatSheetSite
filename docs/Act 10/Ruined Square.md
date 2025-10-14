@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Ruined Square
+# Ravaged Square
 
 ## Layouts
 
@@ -17,7 +17,7 @@ Innocence (once Revived), to unlock the Canals Entrance
 
 ## Zone Read
 
-Ruined Square is a static Layout, it will always look the same. The Keydifference to its Act 5 Variant is that the North Bridge is broken. (And that you enter the Zone at the Cathedral Rooftop)
+Ravaged Square is a static Layout, it will always look the same. The Keydifference to its Act 5 Variant Ruined Square is that the North Bridge is broken. (And that you enter the Zone at the Cathedral Rooftop)
 
 The Blood Fountain is always South-East of the Entrance.
 

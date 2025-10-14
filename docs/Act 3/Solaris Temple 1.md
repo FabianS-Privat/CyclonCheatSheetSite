@@ -6,10 +6,11 @@ sidebar_position: 10
 
 ## Layouts
 
-| Waypoint Corner pointing West                                                            | Waypoint Corner Pointing East                                                            |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| ![Solaris Temple Variant 1](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(1).png>) | ![Solaris Temple Variant 2](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(3).png>) |
-| ![Solaris Temple Variant 3](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(2).png>) |                                                                                          |
+| Waypoint Corner pointing West                                                                                                         | Waypoint Corner Pointing East                                                                                                         | Waypoint Corner Pointing South                                                           | Waypoint Corner Pointing North                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Waypoint paralel to Entrance Corridor ![Solaris Temple Variant 1](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(1).png>)        | Entrance paralel to Exit, Long Passage North ![Solaris Temple Variant 2](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(3).png>) | ![Solaris Temple Variant 3](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(4).png>) | ![Solaris Temple Variant 7](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(6).png>) |
+| Waypoint paralel to Entrance Stairs ![Solaris Temple Variant 3](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(2).png>)          |                                                                                                                                       |                                                                                          |
+| Entrance paralel to Exit, Long Passage South ![Solaris Temple Variant 5](<./img/Solaris%20Temple%201/Solaris%20Temple%201%20(5).png>) |
 
 ### Point of Interest
 

@@ -6,11 +6,12 @@ sidebar_position: 9
 
 ## Layouts
 
-|                                                                                                                       |                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Straigth Trail from WP, Exit opposite Side ![Lower Prison Variant 1](<./img/Lower%20Prison/Lower%20Prison%20(4).png>) | Late Trial, Exit Same Side ![Lower Prison Variant 2](<./img/Lower%20Prison/Lower%20Prison%20(5).png>)                   |
-| Trial facing North-West, Exit Same Side ![Lower Prison Variant 3](<./img/Lower%20Prison/Lower%20Prison%20(3).png>)    | Nort-East Dead End, Trial and Exit East Side ![Lower Prison Variant 4](<./img/Lower%20Prison/Lower%20Prison%20(6).png>) |
-| Exit paralel to Entrance, fair Trial![Lower Prison Variant 5](<./img/Lower%20Prison/Lower%20Prison%20(2).png>)        | Exit paralel to Entrance, scuffed Trial ![Lower Prison Variant 6](<./img/Lower%20Prison/Lower%20Prison%20(1).png>)      |
+|                                                                                                                       |                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| East Dead End,Trial and Exit opposite Side ![Lower Prison Variant 1](<./img/Lower%20Prison/Lower%20Prison%20(4).png>) | Trial paralel to Waypoint, Exit South-Corner ![Lower Prison Variant 2](<./img/Lower%20Prison/Lower%20Prison%20(5).png>)   |
+|                                                                                                                       | 90° Corner with smooth Edge, Exit South-Corner ![Lower Prison Variant 7](<./img/Lower%20Prison/Lower%20Prison%20(7).png>) |
+| Trial facing North-West, Exit Same Side ![Lower Prison Variant 3](<./img/Lower%20Prison/Lower%20Prison%20(3).png>)    | Late Trial, Trial Exit same Side ![Lower Prison Variant 4](<./img/Lower%20Prison/Lower%20Prison%20(6).png>)               |
+| Exit paralel to Entrance, fair Trial![Lower Prison Variant 5](<./img/Lower%20Prison/Lower%20Prison%20(2).png>)        | Exit paralel to Entrance, scuffed Trial ![Lower Prison Variant 6](<./img/Lower%20Prison/Lower%20Prison%20(1).png>)        |
 
 ### Points of Interest
 

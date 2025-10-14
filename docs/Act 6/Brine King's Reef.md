@@ -22,10 +22,10 @@ Follow the East Edge
 :::
 
 There are 3 Variants, to find the Boss Arena do the following:
-Walk East
+Walk South-West
 
-- If the Zone continues East, walk East till the Zone opens North, then walk North to find the Boss Arena
-- If the Zone ends East and forces you south
-- - Walk South till you hit the South Corner, then Walk North-East
-- - If you see the Boss Arena Entrance, enter it
-- - Otherwise walk North once you hit the East Corner till you see the Boss Room.
+- If the Zone continues West, walk South-West till you see the Book Icon on the Minimap, then walk North to find the Boss Arena.
+- If the Zone ends West and forces you South
+- - Walk South till you see the Book Icon on the Minimap
+- - If the Book Icon is early, then the Boss Arena is in the North-East Corner. Continue South along the East Edge till the Zone lets you move East. Then move North-East to find the Boss Arena.
+- - Otherwise the Boss Arena is in the South-East Corner. Move South till the Zone opens up for the Second Time East, then move East.

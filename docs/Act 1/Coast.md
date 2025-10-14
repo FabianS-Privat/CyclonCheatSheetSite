@@ -32,14 +32,12 @@ When identifying the Layout as **the Long Coast**, consider logging to Town and 
 
 ### Major Zone Identifier
 
-There are 2 major Zone Identifiers, the _Handgun_ and the _Water Corner_
+There are 2 major Zone Identifiers, the _Handgun_ and the _Cookie Bite_
 
 For the _Handgun_ Layout check the Wall behind it, if you can't walk past it (like in Image 3), head south / south-east.
 If you **can** walk past it (like in Image 4), follow along the opposite Zone Edge to get to the last Ledge downwards and Waypoint.
 
-For the _Water Corner_ Layout check the Water Corner that you will walk into if you go straight North-East. If it is an Indent (like in Image 6 and 7), you can got a longer coast, but not **the Long Coast**. To differentiate between Variant 6 and Variant 7, Variant 6 opens up after the The Wall right above the indent.
-
-If you get a Water Corner (like in Image 8), it is **the Long Coast** Layout.
+For the _Cookie Bite_ Layout check the Wall that you will walk into if you go North-East. If it is an Indent (like in Image 8), you are in **the Long Coast**.
 
 :::info Cyclon's Note
 Ignore all Enemies here,

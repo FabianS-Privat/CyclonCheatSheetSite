@@ -27,7 +27,7 @@ In the Trial right after entering, the first Section can be skipped by using Bli
 The final Room before the Walkway to the Fidelitas Boss Arena is always the same, it contains 2 Pillars and 1 Lit Fire Basin.
 
 So the first step in Chamber of Sins 2 is locating the Trial. We always head South-East from the Entrance.
-If South is a Dead End, we are in the North extending Variant. We find the trial by following the Wall leading to the North-West Corner of the Zone. And the Fidelitas Arena will be in the North-East Corner.
+If South is a Dead End, we are in the North extending Variant. We find the trial by following the Wall leading to the North-West Corner of the Zone. And the Fidelitas Arena will be in the North-East Corner. The Trial and the Walkway are paralel to each other.
 
 If The Trial is on the East Wall, facing North-East, the Fidelitas Boss Arena will be South and then West from the Trial.
 

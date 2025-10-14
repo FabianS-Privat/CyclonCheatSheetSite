@@ -6,10 +6,11 @@ sidebar_position: 12
 
 ## Layout
 
-|                                                                                                                              |                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1 Tunnel ![Belly of the Beast 2 Variant 1](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(2).png>)      | 2 Long Tunnels ![Belly of the Beast 2 Variant 2](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(1).png>) |
-| 2 Mini Tunnels![Belly of the Beast 2 Variant 4](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(4).png>) | 2 Tunnels ![Belly of the Beast 2 Variant 3](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(3).png>)      |
+|                                                                                                                                    |                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1 Tunnel ![Belly of the Beast 2 Variant 1](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(2).png>)            | 2 Long Tunnels ![Belly of the Beast 2 Variant 2](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(1).png>) |
+| 2 Mini Tunnels![Belly of the Beast 2 Variant 4](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(4).png>)       | 2 Tunnels ![Belly of the Beast 2 Variant 3](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(3).png>)      |
+| North Start 2 Tunnels ![Belly of the Beast Variant 5](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(5).png>) | Fake 2 Tunnel ![Belly of the Beast Variant 6](<./img/Belly%20of%20the%20Beast%202/Belly%20of%20the%20Beast%202%20(6).png>)    |
 
 ### Point of Interest
 
@@ -17,7 +18,9 @@ Piety and locked Passage
 
 ## Zone Read
 
-There are 4 Belly of the Beast 2 Variants, to differentiate between them move west till you hit a Dead end.
+There are 5 Belly of the Beast 2 Variants, to differentiate between them move west till you hit a Dead end.
+
+- If you start North and the Tunnel face South, you are in the North Start Variant.
 
 - If you directly move into a Dead End you are in the 1 Tunnel Variant. Move North till you can no longer move north, then follow the Passage and always move North if you can again.
 
