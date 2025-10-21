@@ -15,7 +15,6 @@ sidebar_position: 1
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
-Placeholder Video, actual Video coming once created and edited.
 
 ## Progression
 
