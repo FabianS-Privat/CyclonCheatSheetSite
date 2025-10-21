@@ -9,13 +9,12 @@ sidebar_position: 1
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/T4igRJv93xg"
+  src="https://www.youtube.com/embed/aTt4NeEyqQs"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
-Placeholder Video, actual Video coming once created and edited.
 
 ## Progression
 
