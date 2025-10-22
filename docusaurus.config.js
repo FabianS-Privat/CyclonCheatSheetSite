@@ -88,6 +88,11 @@ export default {
           label: "Layouts",
         },
         {
+          html: `<a class="inline-block px-6 py-3 border-1 border-[#2e8555] dark:border-[#25c2a0] rounded-full transition-colors duration-300 text-sm font-medium shadow-md" " alt="Support the Website">☕ Donate</a>`,
+          to: "https://buy.stripe.com/8x28wQ4hhgVUgbGbmhbo401",
+          position: "right",
+        },
+        {
           html: `<img class="h-8 w-auto" src="/img/discord-icon.svg" alt="Join Discord"/>`,
           to: "https://discord.gg/EvJhCTgpnD",
           position: "right",
