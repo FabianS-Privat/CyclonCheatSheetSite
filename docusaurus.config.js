@@ -81,6 +81,7 @@ export default {
       items: [
         { to: "/builds", label: "Builds", position: "left" },
         { to: "/strats", label: "Strategies", position: "left" },
+        { to: "/crafts", label: "Crafting Book", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "sidebar",
