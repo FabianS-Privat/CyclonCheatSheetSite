@@ -35,9 +35,9 @@ export default function HomepageFeatures() {
 
               <p> Thanks to everyone supporting my content:</p>
               <h1>Monolith Supporter</h1>
-              <p> TempestMind</p>
+              <p> TempestMind, Kesuke</p>
               <h2>Emblem Supporter</h2>
-              <p> Kesuke, (des)mosthenes</p>
+              <p> Morfyzm, (des)mosthenes</p>
             </div>
           </div>
         </div>
