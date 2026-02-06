@@ -18,6 +18,10 @@ export default {
   },
 
   plugins: ["docusaurus-plugin-image-zoom", "./src/plugins/tailwind-config.js"],
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
 
   // Set the production url of your site here
   url: "https://www.definitivguide.com",
