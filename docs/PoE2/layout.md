@@ -8,7 +8,7 @@ Welcome to my advanced Campaign Guide for Path of Exile 2, this Guide is meant f
 For your first Playthrough I highly recommend to go at your own pace and explore everything.
 **You only have 1 first playthrough!**
 
-This guide is not perfect, it is meant to help reach a 7 to 8 hour campaign time.
+This guide is not perfect, it is meant to help improve your campaign time and allow you to know how the zones work.
 Just reading through this without practising won't result in major time saves.
 If you have any questions or anything is unclear, reach out to me on
 [YouTube](https://www.youtube.com/@CyclonDefinitiv), [Discord](https://discord.gg/EvJhCTgpnD) or [Twitch](https://www.twitch.tv/cyclondefinitiv)
@@ -16,7 +16,8 @@ If you have any questions or anything is unclear, reach out to me on
 ## For who this is intended
 
 I highly recommend this to anyone that wants to reduce their Campaign Time and is willing to spend a couple hours learning Layout Identifiers, Enviromental Clues and general Layout Rules.
-If you want very generic simplified Layout Explanations I recommend [Lolcohols Layout Mobalytic Guide](https://mobalytics.gg/poe-2/guides/campaign-layout-act-1). My guide is more complex, but more indepth and considers the rotating Layouts between Leagues.  
+If you want very generic simplified Layout Explanations I recommend [Lolcohols Layout Mobalytic Guide](https://mobalytics.gg/poe-2/guides/campaign-layout-act-1).  
+My guide is more complex, but more indepth and considers the rotating Layouts between Leagues.  
 That said, this guide is not indepth enough to make you a speedrunner, that will require even more indepth layout knowledge and studying.
 
 The Guide will have 3 Steps of Learning:
@@ -24,6 +25,8 @@ The Guide will have 3 Steps of Learning:
 - A simple Read, that is by no means perfect, trying to cover as many cases as possible.
 - A more detailed Flowchart Approach, covering all Variants and Special Cases (at least known ones)
 - A Table of Layouts with indicators how to run them, for those that want to learn all Layout Variants.
+
+Lastly I want to shoutout the [Campaing Codex Discord](). Best place to learn indepth Layout Knowledge and share yours.
 
 ## Zone Generation
 
