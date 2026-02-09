@@ -46,7 +46,7 @@ I-->X[Find the Exit Tile]
 
 ### Variant Table
 
-| Direct Path                                                                                                                        | Fork                                                                                                                 |
+| Direct Path                                                                                                                        | Fork (Props to Lailoken for finding the Fork, no Fork distiction in the Pathing!)                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Short Fork Dead End & Direct Path leads to Corn Circle ![Ogham Farmlands 1](<./img/Ogham%20Farmlands/Ogham%20Farmlands%20(1).png>) | Long Fork Path leads to secondary Fork ![Ogham Farmlands 2](<./img/Ogham%20Farmlands/Ogham%20Farmlands%20(2).png>)   |
 | Una's Hut before Wagon Tile ![Ogham Farmlands 3](<./img/Ogham%20Farmlands/Ogham%20Farmlands%20(4).png>)                            | Short Fork direct Corn Circle ![Ogham Farmlands 4](<./img/Ogham%20Farmlands/Ogham%20Farmlands%20(3).png>)            |
