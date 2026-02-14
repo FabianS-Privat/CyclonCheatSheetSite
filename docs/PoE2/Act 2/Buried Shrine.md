@@ -7,8 +7,8 @@ sidebar_position: 10
 ## Zone Read
 
 :::tip Simple Read
-If Entrance Room tilts right follow the Smooth Edge.  
-If Entrance Room tilts left follow the Edged Edge
+If Entrance Room tilts right follow the Smooth Edge  
+If Entrance Room tilts left follow the Jagged Edge
 :::
 
 Buried Shrine has 2 Layout Sets that can be generated based on World Seed. The Key Identifier is the Starting Room orientation.
