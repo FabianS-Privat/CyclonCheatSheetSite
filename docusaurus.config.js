@@ -20,6 +20,10 @@ export default {
   plugins: ["docusaurus-plugin-image-zoom", "./src/plugins/tailwind-config.js"],
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+      onBrokenMarkdownImages: "throw",
+    },
   },
   themes: ["@docusaurus/theme-mermaid"],
 
@@ -35,7 +39,6 @@ export default {
   projectName: "Definitiv Guide", // Usually your repo name.
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
