@@ -26,7 +26,7 @@ The Guide will have 3 Steps of Learning:
 - A more detailed Flowchart Approach, covering all Variants and Special Cases (at least known ones)
 - A Table of Layouts with indicators how to run them, for those that want to learn all Layout Variants.
 
-Lastly I want to shoutout the [Campaing Codex Discord](). Best place to learn indepth Layout Knowledge and share yours.
+Lastly I want to shoutout the [Campaing Codex Discord](https://discord.gg/Jdd8589DBy). Best place to learn indepth Layout Knowledge and share yours.
 
 ## Zone Generation
 
