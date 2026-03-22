@@ -35,9 +35,9 @@ export default {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Cyclon", // Usually your GitHub org/user name.
-  projectName: "Definitiv Guide", // Usually your repo name.
-
+  organizationName: "FabianS-Privat", // Usually your GitHub org/user name.
+  projectName: "CyclonCheatSheetSite", // Usually your repo name.
+  trailingSlash: false,
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
