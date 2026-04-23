@@ -78,7 +78,49 @@ Several Tasks in one Area can be completed in any Order, unless otherwise noted.
 | 52  | Kingsmarch          | Collect Reward from Hooded one                                                                         | +2 Weapon Set & Passive Points                                                                                  |
 | 53  | Kingsmarch          | Talk to Doryani and Travel to Endgame                                                                  |                                                                                                                 |
 
-## Town NPCs
+## League Mechanic Rewards
+
+Started with Abyss the current League Mechanic gave guranteed Rewards when doing the in-zone Mechanic. These Rewards are only guranteed once and help smooth out the Campaign Progression a lot.
+
+So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing all Monsters, or in Abyss these Rewards were guranteed when the Last Abyss spawned a Chest. This is not a gurantee going forward, but it is good to know.
+
+Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
+
+### Interlude Ezomite
+
+| Zone               | Reward                       | Notes       |
+| ------------------ | ---------------------------- | ----------- |
+| Scorched Farmlands | LvL 4 Support Gem            | Recommended |
+| Stone of Serle     | Exalted Orb                  | Recommended |
+| Blackwood          | Greater Orb of Transmutation |             |
+| Holten             | Random Greater Rune          |             |
+| Wolvenhold         | Greater Orb of Augmentation  |             |
+| Holten Estate      | Artificer's Orb              |             |
+
+### Interlude Maraketh
+
+| Zone                | Reward                       | Notes       |
+| ------------------- | ---------------------------- | ----------- |
+| Khari Crossing      | Gemcutter's Prism            | Recommended |
+| Pools of Khatal     | Orb of Alcehmy               |             |
+| Sel Khari Sanctuary | Orb of Chance                | Recommended |
+| Galai Gates         | Greater Orb of Augmentation  |             |
+| Qimah               | Exalted Orb                  | Recommended |
+| Qimah Reservoir     | Greater Orb of Transmutation |             |
+
+### Interlude Vaal
+
+| Zone          | Reward                       | Notes                              |
+| ------------- | ---------------------------- | ---------------------------------- |
+| Ashen Forest  | Rare Belt                    | Recommended, force if Belt is weak |
+| Kriar Village | Random Greater Rune          |                                    |
+| Glacial Tarn  | Greater Orb of Augmentation  |                                    |
+| Howling Caves | Chaos Orb                    | Recommended                        |
+| Kriar Peaks   | Greater Orb of Transmutation |                                    |
+| Etched Ravine | Exalted Orb                  | Recommended                        |
+| Cuachic Vault | Vaal Orb                     |                                    |
+
+### Town NPCs
 
 | Hooded One                                             | Risu                                   | Hilda                                         |
 | ------------------------------------------------------ | -------------------------------------- | --------------------------------------------- |

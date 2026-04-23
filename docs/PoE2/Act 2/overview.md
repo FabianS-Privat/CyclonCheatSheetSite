@@ -82,6 +82,34 @@ Several Tasks in one Area can be completed in any Order, unless otherwise noted.
 | 51  | Dreadnought Vanguard  | Kill Jamanra, the Abomination                                                                    |
 | 52  | 10th Town Visit       | Talk to the Hooded One twice. Talk to Asala to Travel to Act 3                                   |
 
+## League Mechanic Rewards
+
+Started with Abyss the current League Mechanic gave guranteed Rewards when doing the in-zone Mechanic. These Rewards are only guranteed once and help smooth out the Campaign Progression a lot.
+
+So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing all Monsters, or in Abyss these Rewards were guranteed when the Last Abyss spawned a Chest. This is not a gurantee going forward, but it is good to know.
+
+Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
+
+| Zone                 | Reward                | Notes              |
+| -------------------- | --------------------- | ------------------ |
+| Vastiri Outskirts    | Exalted Orb           | Recommended, Force |
+| Mawdun Quarry        | LvL 5 Spirit Gem      |                    |
+| Mawdun Mine          | LvL 2 Support Gem     | Recommended        |
+| Traitor's Passage    | Artificer's Orb       | Recommended        |
+| Halani Gates         | Exalted Orb           | Recommended, Force |
+| Keth                 | Gemncutter's Prism    | Recommended, Force |
+| Lost City            | Orb of Alchemy        | Recommended        |
+| Buried Shrines       | Lesser Jeweller's Orb | Recommended, Force |
+| Mastodon Badlands    | Regal Orb             | Recommended        |
+| Bone Pits            | Exalted Orb           | Recommended        |
+| Valley of the Titans | Random Unique         |                    |
+| Titan Grotto         | Chance Shard          |                    |
+| Deshar               | Random Lesser Rune    |                    |
+| Path of Mourning     | -                     |                    |
+| Spires of Deshar     | Gemcutter's Prism     | Recommended, Force |
+| Dreadnought          | -                     |                    |
+| Dreadnought Vanguard | -                     |                    |
+
 ## Town NPCs
 
 | Zarka                                              | Shambrin                                       | Risu, Faridun Defector                   | Hooded One                                                 | Sekhema Asala                            |

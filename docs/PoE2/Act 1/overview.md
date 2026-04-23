@@ -71,6 +71,31 @@ Several Tasks in one Area can be completed in any Order, unless otherwise noted.
 | 45  | Ogham Manor              | Kill Candlemass, the living Rite                                                      | +20 Max Life, It is faster to kill Candlemass 2nd, during Geonor death Dialog, BUT IF YOU DIE during Fight Geonor Loot disappears.        |
 | 46  | 7th Town Visit           | Talk to the Hooded One to travel to Act 2                                             |                                                                                                                                           |
 
+## League Mechanic Rewards
+
+Started with Abyss the current League Mechanic gave guranteed Rewards when doing the in-zone Mechanic. These Rewards are only guranteed once and help smooth out the Campaign Progression a lot.
+
+So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing all Monsters, or in Abyss these Rewards were guranteed when the Last Abyss spawned a Chest. This is not a gurantee going forward, but it is good to know.
+
+Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
+
+| Zone                     | Reward               | Notes              |
+| ------------------------ | -------------------- | ------------------ |
+| Clearfell                | Orb of Transmutation | Recommended, Force |
+| Mud Burrow               | Orb of Augmentation  | Recommended        |
+| Grelwood                 | Orb of Transmutation |                    |
+| Red Vale                 | LvL 2 Skill Gem      |                    |
+| Grim Tangle              | LvL 3 Skill Gem      | Recommended        |
+| Cemetery of the Eternals | Regal Orb            | Recommended, Force |
+| Tomb of the Consort      | Amulet               | Recommended        |
+| Mausoleum of the Praetor | Random Lesser Rune   |                    |
+| Hunting Grounds          | Exalted Orb          | Recommended        |
+| Ogham Farmlands          | LvL 4 Skill Gem      |                    |
+| Freythorn                | LvL 1 Support Gem    | Recommended        |
+| Ogham Village            | Artificer's Orb      | Recommended        |
+| Manor RAmparts           | LvL 5 Skill Gem      | Recommended, Force |
+| Ogham Manor              | Orb of Alchemy       | Recommended, Force |
+
 ## Town NPCs
 
 | Una                                                | Renly                                    | Finn                                   | Hooded One                                                                  | Leitis                                            |

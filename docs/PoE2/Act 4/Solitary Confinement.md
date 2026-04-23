@@ -22,8 +22,8 @@ B-->A
 
 ### Variant Table Examples
 
-| Example                                   |
-| ----------------------------------------- |
-| ![Example](./img/Alva_NPC_screenshot.jpg) |
+| Example                                                                     |
+| --------------------------------------------------------------------------- |
+| ![Example](<./img/Solitary%20Confinement/Solitary%20Confinement%20(1).png>) |
 
 ### Points of Interest

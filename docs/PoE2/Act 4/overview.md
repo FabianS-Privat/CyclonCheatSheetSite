@@ -76,6 +76,32 @@ Several Tasks in one Area can be completed in any Order, unless otherwise noted.
 | 45  | Heart of the Tribe     | Kill Tavakai, the Chieftain. Talk to the Hodded One and return to Town                      |                                                                                                                                      |
 | 46  | 3rd Town Visit         | Talk to the Hodded One to Travel to diffrent Intermission Towns                             | <span className="red-text"> Hand Shark Fin to Kaima for Uncut Gem of Choice</span>                                                   |
 
+## League Mechanic Rewards
+
+Started with Abyss the current League Mechanic gave guranteed Rewards when doing the in-zone Mechanic. These Rewards are only guranteed once and help smooth out the Campaign Progression a lot.
+
+So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing all Monsters, or in Abyss these Rewards were guranteed when the Last Abyss spawned a Chest. This is not a gurantee going forward, but it is good to know.
+
+Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
+
+| Zone                 | Reward                 | Notes                                |
+| -------------------- | ---------------------- | ------------------------------------ |
+| Isle of Kin          | Exalted Orb            | Recommended                          |
+| Volcanic Warrens     | Orb of Alchemy         |                                      |
+| Kedge Bay            | Gemcutter's Prism      | Recommended, Force                   |
+| Journey's End        | LvL 4 Support Gem      | Recommended                          |
+| Shrike Island        | Artificer's Orb        |                                      |
+| Wakapanu Island      | Magic Charm            |                                      |
+| Singing Caverns      | Exalted Orb            | Recommended                          |
+| Abandonded Prison    | Random Rune            |                                      |
+| Solitary Confinement | LvL 4 Support Gem      | Recommended                          |
+| Eye of Hinekora      | Chaos Orb              | Recommended                          |
+| Halls of the Dead    | -                      |                                      |
+| Arastas              | LvL 12 Skill Gem       |                                      |
+| Excavation           | Rare Amulet            | Recommended, Force if Amulet is weak |
+| Ngakanu              | Greater Jeweller's Orb | Recommended, Force                   |
+| Heart of the Tribe   | LvL 12 Spirit Gem      |                                      |
+
 ## Town NPCs
 
 | Rog                                                | Dannig                                     | Tujen                                    | Hooded One                                                 | Makoru                                     |

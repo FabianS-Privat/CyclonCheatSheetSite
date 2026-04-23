@@ -20,6 +20,9 @@ In Vertical Layouts the Boss is always along the Outer Edge.
 
 The Beckoning Clam and Egg Cave are in random positions along the Outer Edge. In theory those could be pinpointed by identifying the Layout Variant, there are only 4, but given the small and simplistic nature of the zone it is recommended to just force it when requiring a Amulet Upgrade and otherwise just focusing on Boss which is easily found.
 
+- The Beckoning Clam is shaped similar to a Mermaid Tail with a long Pathway before the Checkpoint
+- While the Egg Cave CP is directly along the outer Edge Path
+
 ```mermaid
 graph TD;
 A[Entrance Alingment]-->|Vertical|Vert[Follow outer Edge]

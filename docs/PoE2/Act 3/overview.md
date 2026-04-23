@@ -78,6 +78,33 @@ Several Tasks in one Area can be completed in any Order, unless otherwise noted.
 | 46  | Black Chambers        | Kill Doryani, Royal Thaumaturge                                                       |
 | 47  | 6th Town Visit        | Talk to Doryani in Past. Talk to Alva to Leave to Act 4                               |
 
+## League Mechanic Rewards
+
+Started with Abyss the current League Mechanic gave guranteed Rewards when doing the in-zone Mechanic. These Rewards are only guranteed once and help smooth out the Campaign Progression a lot.
+
+So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing all Monsters, or in Abyss these Rewards were guranteed when the Last Abyss spawned a Chest. This is not a gurantee going forward, but it is good to know.
+
+Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
+
+| Zone                  | Reward            | Notes              |
+| --------------------- | ----------------- | ------------------ |
+| Sandswept Marsh       | LvL 3 Support Gem | Recommended, force |
+| Jungle Ruins          | Orb of Alchemy    |                    |
+| Venom Crypts          | Magic Ring        |                    |
+| Infested Barrens      | Exalted Orb       | Recommended        |
+| Azak Bog              | Random Rune       |                    |
+| Chimeral Wetlands     | LvL 9 Skill Gem   |                    |
+| Jiquani's Machinarium | Artificer's Orb   | Recommended        |
+| Jiquani's Sanctum     | Exalted Orb       |                    |
+| Matlan Waterways      | LvL 10 Spirit Gem | Recommended        |
+| Drowned City          | LvL 3 Support Gem | Recommended        |
+| Molten Vault          | Random Unique     |                    |
+| Apex of Filth         | Vaal Orb          |                    |
+| Temple of Kopec       | LvL 11 Spirit Gem |                    |
+| Utzaal                | Random Jewel      |                    |
+| Aggorat               | LvL 11 Skill Gem  |                    |
+| Black Chambers        | Vaal Orb          |                    |
+
 ## Town NPCs
 
 | Servi                                                | Oswald                                     | Alva                                   | Hooded One                                                 | Doryani                                      |
