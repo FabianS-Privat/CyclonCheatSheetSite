@@ -44,6 +44,6 @@ D-->|Checked entire Border and still missing a PoI|E[Check inward of the Zone, k
 
 ### Points of Interest
 
-Tomb of the Consort Entrance
-Mausoleum of the Praetor
+Tomb of the Consort Entrance  
+Mausoleum of the Praetor  
 Ancient Ruin - Normal Lapis or Iron Ring

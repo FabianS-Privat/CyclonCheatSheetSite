@@ -48,5 +48,5 @@ I-->|Area behind Beginning T Section is empty|F
 
 ### Points of Interest
 
-Embattled Trove - Ambush by Death Knight - Drops LvL 1 Support Gem
+Embattled Trove - Ambush by Death Knight - Drops LvL 1 Support Gem  
 Asinia - Drops Key Piece for Main Quest Progression

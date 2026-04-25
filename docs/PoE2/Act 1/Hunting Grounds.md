@@ -41,6 +41,6 @@ A-->|almost back at Entrance|C[Faster to just continue the Edge, than to Checkpo
 
 ### Points of Interest
 
-Dryadic Ritual - Rare Dryad that drops LvL 1 Support Gem
-Crowbell - Rewards 2 Passive & 2 Weapon Set Points
+Dryadic Ritual - Rare Dryad that drops LvL 1 Support Gem  
+Crowbell - Rewards 2 Passive & 2 Weapon Set Points  
 Ritual - Rewards nothing (not highlighted on the Layout Examples above)

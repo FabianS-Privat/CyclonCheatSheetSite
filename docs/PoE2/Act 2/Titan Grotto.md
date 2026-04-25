@@ -34,6 +34,6 @@ a-->|Direction continues|c[Continue]
 
 ### Points of Interest
 
-Titan's Sword - Drops a Lesser Rune
-Dias of Reconing - Zalmarath drops Essence of Fire (Main Quest Item)
+Titan's Sword - Drops a Lesser Rune  
+Dias of Reconing - Zalmarath drops Essence of Fire (Main Quest Item)  
 2 Bridges along the Long Edge of the Zone

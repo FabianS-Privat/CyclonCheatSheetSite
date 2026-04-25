@@ -54,5 +54,5 @@ P-->V[Move Upwards if you can, otherwise move Right]
 
 ### Points of Interest
 
-Geonor - Unlocks access to Act 2 in Town & awakes the Hooded one if not done before
+Geonor - Unlocks access to Act 2 in Town & awakes the Hooded one if not done before  
 Fallen Altar - Kill Candlemass for +20 Maximum Life

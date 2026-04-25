@@ -38,5 +38,5 @@ A[Follow the Waypoint Edge]-->B[Kill Rathbreaker]
 
 ### Points of Interest
 
-Abandoned Camp - Level 2 Support Gem
+Abandoned Camp - Level 2 Support Gem  
 Raider's Cliff - Killing Rathbreaker unlocks Ardura Caravan

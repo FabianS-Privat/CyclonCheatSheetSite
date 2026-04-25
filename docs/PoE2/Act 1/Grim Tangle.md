@@ -49,5 +49,5 @@ graph TD;
 
 ### Points of Interest
 
-Waypoint at the Entrance from Grelwood
+Waypoint at the Entrance from Grelwood  
 Ervig, the Rotten Druid - LvL 1 Support Gem

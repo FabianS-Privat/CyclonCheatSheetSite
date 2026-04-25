@@ -39,5 +39,5 @@ B-->|Found Opposite Edge to the Entrance|D[Check for Winged Exit Tile]
 
 ### Points of Interest
 
-Gallery - 7th Treasure of Keth Rare Gilded Beetle Enemy drops random Jewel
+Gallery - 7th Treasure of Keth Rare Gilded Beetle Enemy drops random Jewel  
 Golden Tomb - LvL 6 Spirit Gem

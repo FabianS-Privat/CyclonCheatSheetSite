@@ -57,5 +57,5 @@ graph TD;
 ### Points of Interest
 
 Waypoint at the Tree of Souls  
-Witch Hut - Medium Life & Mana Flask & Kill Areagne for LvL 1 Support Gem
+Witch Hut - Medium Life & Mana Flask & Kill Areagne for LvL 1 Support Gem  
 Brambleghast - LvL 2 Skill Gem

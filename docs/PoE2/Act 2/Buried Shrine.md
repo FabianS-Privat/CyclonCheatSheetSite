@@ -53,6 +53,6 @@ F-->|found Elemental Offering|I
 
 ### Points of Interest
 
-Guarded Sarcophagus - Drops LvL 2 Support Gem
-Elemental Offering - Drops Element related Magic Ring
+Guarded Sarcophagus - Drops LvL 2 Support Gem  
+Elemental Offering - Drops Element related Magic Ring  
 Heart of Keth - Killing Azarian and doing the 'RPG' drops Main Quest Item.

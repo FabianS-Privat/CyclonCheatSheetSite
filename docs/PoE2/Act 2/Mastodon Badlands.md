@@ -34,5 +34,5 @@ The best aproach is to follow the Waypoint Edge! If you want to find the Effigy 
 
 ### Points of Interest
 
-Effigy - Rare Bone Effigy drops LvL 2 Support Gem
+Effigy - Rare Bone Effigy drops LvL 2 Support Gem  
 Lightless Passage - Leads to Well of Souls to unlocks Abyss Crafting

@@ -27,5 +27,5 @@ Freythorn is a unsolved Zone, there is a 1/12 Chance to get a very good Layout w
 
 ### Points of Interest
 
-3 small Rituals
+3 small Rituals  
 1 big Boss Ritual

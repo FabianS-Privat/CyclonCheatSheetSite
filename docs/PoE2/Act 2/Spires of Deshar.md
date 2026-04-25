@@ -38,8 +38,6 @@ D-->|Sister PoI not found yet|E[backtrack into the Zone check 2 Rows above and b
 
 ### Variant Table
 
-|                                                                                  |                                                                                    |
+| Example                                                                          | Example 2                                                                          |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | ![Spires of Deshar](<./img/Spires%20of%20Deshar/Spires%20of%20Deshar%20(1).png>) | ![Spires of Deshar 2](<./img/Spires%20of%20Deshar/Spires%20of%20Deshar%20(2).png>) |
-
-### Points of Interest

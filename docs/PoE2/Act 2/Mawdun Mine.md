@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Mawdun Quarry
+# Mawdun Mine
 
 ## Zone Read
 

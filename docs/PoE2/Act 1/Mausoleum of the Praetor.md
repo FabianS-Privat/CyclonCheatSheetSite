@@ -37,5 +37,5 @@ C-->|Boss Room isn't diagonal opposite|D[Boss Room is in the other Corner behind
 
 ### Points of Interest
 
-Forgotten Riches - Hidden Room with Gold Piles and Rare Chest
+Forgotten Riches - Hidden Room with Gold Piles and Rare Chest  
 Draven - Drops Key Piece for Main Quest Progression

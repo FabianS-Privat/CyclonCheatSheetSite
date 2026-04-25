@@ -79,22 +79,22 @@ So in Fate of the Vaal, the Vaal Charge Platforms dropped these when clearing al
 
 Recommended ones are great to collect if they are on teh way, force ones ae really good to spend some extra time in the zone to find.
 
-| Zone                     | Reward               | Notes              |
-| ------------------------ | -------------------- | ------------------ |
-| Clearfell                | Orb of Transmutation | Recommended, Force |
-| Mud Burrow               | Orb of Augmentation  | Recommended        |
-| Grelwood                 | Orb of Transmutation |                    |
-| Red Vale                 | LvL 2 Skill Gem      |                    |
-| Grim Tangle              | LvL 3 Skill Gem      | Recommended        |
-| Cemetery of the Eternals | Regal Orb            | Recommended, Force |
-| Tomb of the Consort      | Amulet               | Recommended        |
-| Mausoleum of the Praetor | Random Lesser Rune   |                    |
-| Hunting Grounds          | Exalted Orb          | Recommended        |
-| Ogham Farmlands          | LvL 4 Skill Gem      |                    |
-| Freythorn                | LvL 1 Support Gem    | Recommended        |
-| Ogham Village            | Artificer's Orb      | Recommended        |
-| Manor RAmparts           | LvL 5 Skill Gem      | Recommended, Force |
-| Ogham Manor              | Orb of Alchemy       | Recommended, Force |
+| Zone                     | Reward               | Notes                         |
+| ------------------------ | -------------------- | ----------------------------- |
+| Clearfell                | Orb of Transmutation | Recommended                   |
+| Mud Burrow               | Orb of Augmentation  | Recommended                   |
+| Grelwood                 | Orb of Transmutation | Recommended                   |
+| Red Vale                 | LvL 2 Skill Gem      |                               |
+| Grim Tangle              | LvL 3 Skill Gem      | Recommended                   |
+| Cemetery of the Eternals | Regal Orb            | Recommended, Force            |
+| Tomb of the Consort      | Amulet               | Recommended                   |
+| Mausoleum of the Praetor | Random Lesser Rune   |                               |
+| Hunting Grounds          | Exalted Orb          | Recommended, Force if you see |
+| Ogham Farmlands          | LvL 4 Skill Gem      |                               |
+| Freythorn                | LvL 1 Support Gem    | Recommended                   |
+| Ogham Village            | Artificer's Orb      | Recommended, Force if you see |
+| Manor Ramparts           | LvL 5 Skill Gem      | Recommended                   |
+| Ogham Manor              | Orb of Alchemy       | Recommended, Force            |
 
 ## Town NPCs
 

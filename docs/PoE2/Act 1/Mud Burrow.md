@@ -27,5 +27,5 @@ a-->|no|c[Zone is Horizontal, move Left, at Crossroads, always go Left if able. 
 
 ### Points of Interest
 
-Hatchery - Couple 'Chests' and Enemies
+Hatchery - Couple 'Chests' and Enemies  
 Devourer - LvL 2 SKill Gem(Drop) & LvL 1 Support Gem(Quest Reward)

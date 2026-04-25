@@ -54,6 +54,6 @@ LateStairs-->|Decree|LateStairs2[Follow Path with no Seals]
 
 ### Points of Interest
 
-Stairs - Long Quarter-Circle Staircaise along a set of Statues
-Decree & Traitor - Lore Object & Balbala Boss Arena, Balbala drops Barya for Trial of Sekhema
+Stairs - Long Quarter-Circle Staircaise along a set of Statues  
+Decree & Traitor - Lore Object & Balbala Boss Arena, Balbala drops Barya for Trial of Sekhema  
 Gem - Rare Bell Chest drops LvL 6 Skill Gem, guarded by Magic Pack

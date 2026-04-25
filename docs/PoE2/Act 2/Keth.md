@@ -38,6 +38,6 @@ D-->|Haven't found Kabala Clan Relic|F[Seek and kill Snake Type Enemies in the S
 
 ### Points of Interest
 
-Abandoned Shrine - Blue Pack & Rare Chest with Amulet
-Venom Pit - Kill Kabala for +2 Weapon Set & Passive Point
+Abandoned Shrine - Blue Pack & Rare Chest with Amulet  
+Venom Pit - Kill Kabala for +2 Weapon Set & Passive Point  
 Kabala Clan Relic - Drops of Snake Type Enemies in the 3rd Section of the Zone

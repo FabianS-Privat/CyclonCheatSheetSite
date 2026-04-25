@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# Spires of Deshar
+# Deshar
 
 ## Zone Read
 
@@ -37,12 +37,12 @@ D-->|found Exit|E[Head back into the Zone and search around every Spire for fall
 
 ### Variant Table
 
-|                                            |
+| Example 1                                  | Example 2                                    |
 | ------------------------------------------ | -------------------------------------------- |
 | ![Deshar](<./img/Deshar/Deshar%20(1).png>) | ![Deshar 2](<./img/Deshar/Deshar%20(2).png>) |
 
 ### Points of Interest
 
-Watchfull Twins - 2 Rare Vulture Miniboss Fight with semi random Mods, drops Djinn Barya
-Forgotten corpse - Drops Artificer Orb
+Watchfull Twins - 2 Rare Vulture Miniboss Fight with semi random Mods, drops Djinn Barya  
+Forgotten corpse - Drops Artificer Orb  
 Fallen Dekhara - Drops Final Letter, can be handed to Shambrin for +2 Weapon Set & Passive Points

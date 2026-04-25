@@ -42,7 +42,7 @@ graph TD;
 
 ### Variant Table
 
-| Town Exit Left and Grelwood Left of Clearfell                                     | Town Exit Left and Grelwood Left of Clearfell                                                    | Town Exit Left and Grelwood Left of Clearfell                                                                                                     |
+| Town Exit Left and Grelwood Left of Clearfell                                     | Town Exit Top and Grelwood Left of Clearfell                                                     | Town Exit Top and Grelwood Right of Clearfell                                                                                                     |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | No Bridge, Early Camp ![Clearfell 1](<./img/Clearfell/Clearfell%20(1).png>)       | Late Bridge, Mud burrow Path leading North ![Clearfell 2](<./img/Clearfell/Clearfell%20(3).png>) | Mud Borrows along Right Edge, either go 1,2,3 or 1,3 and move Right from Beira to find Exit ![Clearfell 3](<./img/Clearfell/Clearfell%20(5).png>) |
 | No Bridge, Camp after Curve ![Clearfell 4](<./img/Clearfell/Clearfell%20(2).png>) | Early Bridge, Burrow Path along Left Edge ![Clearfell 5](<./img/Clearfell/Clearfell%20(4).png>)  | Mysterious Campment along Right Edge ![Clearfell 6](<./img/Clearfell/Clearfell%20(6).png>)                                                        |

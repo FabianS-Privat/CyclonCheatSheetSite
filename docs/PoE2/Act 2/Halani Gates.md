@@ -23,5 +23,3 @@ After the Jamanra Fight, take the Stairs down and move into the same direction t
 |                                                                  |
 | ---------------------------------------------------------------- |
 | ![Halani Gates](<./img/Halani%20Gates/Halani%20Gates%20(2).png>) |
-
-### Points of Interest
